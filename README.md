@@ -52,7 +52,7 @@
 
 - 🌱 I’m currently learning and upgrading my skills in field of web development and a newbie to Blockchain.
   </br>  </br>
-     <p align='center'>✨ let's discuss ideas, learn , develop ✨</p>
+     <p align='center'>✨ let's discuss ideas, learn and develop ✨</p>
        </br>  
 
 
